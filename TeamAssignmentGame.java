@@ -61,7 +61,7 @@ public class TeamAssignmentGame {
     }
 
     public static void main(String[] args) {
-        int[] skills = {10, 20, 30, 40};
+        int[] skills = {10, 20, 30, 30};
         divideTeams(skills);
     }
 }
